@@ -1,0 +1,29 @@
+{
+  "identifier": "storekit-config",
+  "nonRenewingSubscriptions": [],
+  "products": [
+    {
+      "displayPrice": "2.99",
+      "familyShareable": false,
+      "internalID": "prod001",
+      "localizations": [
+        {
+          "description": "Unlimited parts/component warranties with document attachments",
+          "displayName": "Warranty Tracker Pro",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "com.shimondeitel.warrantytrack.pro",
+      "referenceName": "Warranty Tracker Pro",
+      "type": "NonConsumable"
+    }
+  ],
+  "settings": {
+    "_askToBuyEnabled": false
+  },
+  "subscriptionGroups": [],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
